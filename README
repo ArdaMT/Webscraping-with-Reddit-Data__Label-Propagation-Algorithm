@@ -1,4 +1,4 @@
-the python file offers an approach of scraping web data. It uses user data on Reddit and also offers a few basic analyses and data visualisations.
+the python file offers an approach to scraping web data. It uses user data on Reddit and also offers a few basic analyses on the scraped Reddit user data and data visualisations.
 
 the label propagation folder includes the respective java files as well as the gephi plugins which were used together with the label propagation algorithm 
 to analyse geodata from western german counties.
