@@ -1,3 +1,5 @@
+This Project was implemented as part of internship for my coursework
+
 the python file offers an approach to scraping web data. It uses user data on Reddit and also offers a few basic analyses on the scraped Reddit user data and data visualisations.
 
 the label propagation folder contains the respective java files in which you will find the implementation of the Label Propagation Algorithm as well as the gephi plugins which #
